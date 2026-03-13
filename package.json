@@ -1,6 +1,7 @@
 {
   "name": "paper-burner-root",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev:fe": "vite",
     "build:fe": "vite build",
